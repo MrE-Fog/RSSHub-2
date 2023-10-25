@@ -73,7 +73,7 @@
     "cheerio": "1.0.0-rc.3",
     "chrono-node": "2.1.10",
     "co-redis": "2.1.1",
-    "crypto-js": "4.0.0",
+    "crypto-js": "4.2.0",
     "currency-symbol-map": "4.0.4",
     "dayjs": "1.9.6",
     "dotenv": "8.2.0",
